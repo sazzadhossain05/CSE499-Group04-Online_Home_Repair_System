@@ -1,0 +1,66 @@
+
+/*This style sheet is for feedback and only for contactus page*/
+.dark{
+  padding:15px;
+  background:#35424a;
+  color:#ffffff;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+/* Sidebar */
+aside#sidebar{
+  float:right;
+  width:35%;
+  margin-top:10px;
+}
+/* Main-col */
+article#main-col{
+  float:left;
+  width:65%;
+}
+/* Services */
+ul#services li{
+  list-style: none;
+  padding:30px;
+  border: #cccccc solid 1px;
+  margin-bottom:5px;
+  background:#e6e6e6;
+  
+}
+
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+  width:90%;
+  padding:5px;
+}
+.quote button{
+    display:block;
+    width:100%;
+  }
+  .quote input, .quote textarea{
+    width:100%;
+    margin-bottom:5px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
